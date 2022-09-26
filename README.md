@@ -5,7 +5,7 @@ Hi, I'm Mikail B., an 18-year-old software engineer.
 I like to work on open source projects and develop innovative products.<br>
 
 ## 📫 How to reach me: 
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/mikailb/)  [![Twitter](http://i.imgur.com/wWzX9uB.png) Twitter](https://twitter.com/MikailDev)
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/mikailb/)  [![Twitter](https://img.icons8.com/fluency/15/000000/twitter.png) Twitter](https://twitter.com/MikailDev)
 <!--
 Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...

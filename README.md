@@ -1,4 +1,6 @@
 
+<p align="center"><img alt="Profile Banner" src="https://i.imgur.com/mHwO64R.jpeg"></p>
+
 ### Hi there I'm [Mikail!]()👋
 Hi, I'm Mikail B., an 18-year-old software engineer.
 

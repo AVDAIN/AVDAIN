@@ -1,5 +1,5 @@
 
-<p align="center"><img alt="Profile Banner" src="https://i.imgur.com/mHwO64R.jpeg"></p>
+<p align="center"><img alt="Profile Banner" src="https://i.imgur.com/qS0xvnu.png"></p>
 
 ### Hi there I'm [Mikail!]()👋
 Hi, I'm Mikail B. , an 19-year-old software engineer.

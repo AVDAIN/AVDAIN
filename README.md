@@ -5,6 +5,8 @@
 Hi, I'm Mikail B. , an 19-year-old software engineer.
 
 I like to work on open source projects and develop innovative products.<br>
+---
+#### If you wonder where my personal projects are, they are private! 
 
 ## 📫 Want to connect? 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/mikailb/) 

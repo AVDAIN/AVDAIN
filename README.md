@@ -1,22 +1,23 @@
 
 <p align="center"><img alt="Profile Banner" src="https://i.imgur.com/1xgMGkX.png"></p>
 
-### Hi there I'm [Mikail!]()👋
-Hi, I'm Mikail B. , an 19-year-old software engineer.
+### Hi there, I'm [Mikail B.!](https://mikailb.eu) 👋
 
-I like to work on open source projects and develop innovative products.<br>
----
-#### If you wonder where my personal projects are, they are private! 
+<p>
+<a href="https://twitter.com/MikailDev">
+   <img align="left" alt="twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+</a>&nbsp;&nbsp;
 
-## 📫 Want to connect? 
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/mikailb/) 
+<a href="https://www.linkedin.com/in/mikailb">
+   <img align="left" alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<p/>
 
-[![Twitter](https://img.icons8.com/fluency/15/000000/twitter.png) Twitter](https://twitter.com/MikailDev)
-<!--
-Here are some ideas to get you started:
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
+<p>
+
+- 📫 How to reach me: [@MikailDev](https://twitter.com/MikailDev)
+
+</p>
+
+[![Mikail's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=avdain&theme=github-compact)

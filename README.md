@@ -16,8 +16,10 @@
 <br/>
 <p>
 
+   In case you are wondering where my projects are: **They are private!**
+   
 - 📫 How to reach me: [@MikailDev](https://twitter.com/MikailDev)
 
 </p>
 
-[![Mikail's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=avdain&theme=github-compact)
+![Mikail's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=avdain&theme=github-compact)

@@ -21,5 +21,3 @@
 - 📫 How to reach me: [@MikailDev](https://twitter.com/MikailDev)
 
 </p>
-
-![Mikail's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=avdain&theme=github-compact)

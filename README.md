@@ -1,5 +1,5 @@
 
-<p align="center"><img alt="Profile Banner" src="https://i.imgur.com/1xgMGkX.png"></p>
+<p align="center"><img alt="Profile Banner" src="https://i.imgur.com/QBeo4zA.png"></p>
 
 ### Hi there, I'm [Mikail B.!](https://mikailb.eu) 👋
 

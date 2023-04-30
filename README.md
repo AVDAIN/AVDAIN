@@ -15,7 +15,11 @@
 <br/>
 <p>
 
- ###  In case you are wondering where my projects are: **They are private!**
+Please note that all of my personal projects on this account are set to private.
+
+   This means that only authorized collaborators can view and contribute to these repositories.
+   
+   
    
 - 📫 How to reach me: [@MikailDev](https://twitter.com/MikailDev)
 

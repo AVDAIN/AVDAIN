@@ -15,7 +15,7 @@
 <br/>
 <p>
 
-Please note that all of my personal projects on this account are set to private.
+Please note that all of my personal projects on this account are set to **private**.
 
    This means that only authorized collaborators can view and contribute to these repositories.
    

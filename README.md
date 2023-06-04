@@ -21,6 +21,6 @@ Please note that all of my personal projects on this account are set to **privat
    
    
    
-- 📫 How to reach me: [@MikailDev](https://twitter.com/MikailDev)
+- 📫 How to reach me: [@MikailDev](https://linkedin.com/in/mikailcode)
 
 </p>

@@ -18,7 +18,12 @@ Please note that all of my personal projects on this account are set to **privat
 
    This means that only authorized collaborators can view and contribute to these repositories.
    
-   
+
+   <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/avdain/avdain/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/avdain/avdain/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/avdain/avdain/output/github-contribution-grid-snake.svg">
+</picture>
    
 - 📫 How to reach me: [@MikailB](https://linkedin.com/in/mikailb)
 
